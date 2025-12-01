@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Samson Mercier, a PhD student at MIT. I am part of the Disruptive Planets group, led by Prof. Julien de Wit.
+
+- I'm interested in using and improving techniques for mapping stars ✨ and planets 🪐
+- I help maintain and develop the open-source code [**ANTARESS**](https://www.astro.unige.ch/~bourriev/antaress/doc/html/), a high-resolution spectroscopy toolblox 🪛
+- I participate in the operatation and maintainance of the SPECULOOS telescopes 🔭
+
+You can reach me at merci228@mit.edu
 <!--
 **SamMerc/SamMerc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
